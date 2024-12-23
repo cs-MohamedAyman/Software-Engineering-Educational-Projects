@@ -28,9 +28,9 @@
     <tbody>
         <tr>
 <td align="center">01</td>
-<td align="center"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/algorithmic-quest-games/eight-puzzle-game/README.md">
-<img width="50%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/eight-puzzle-game.png"></img></a></td>
-<td align="center"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/algorithmic-quest-games/eight-puzzle-game/README.md">Eight Puzzle Game</a></td>
+<td align="center"><a href="https://github.com/cs-MohamedAyman/Software-Engineering-Educational-Projects/blob/master/algorithmic-quest-games/eight-puzzle-game/README.md">
+<img width="50%" src="https://github.com/cs-MohamedAyman/Software-Engineering-Educational-Projects/blob/master/logos/eight-puzzle-game.png"></img></a></td>
+<td align="center"><a href="https://github.com/cs-MohamedAyman/Software-Engineering-Educational-Projects/blob/master/algorithmic-quest-games/eight-puzzle-game/README.md">Eight Puzzle Game</a></td>
 <td align="left" rowspan=8>
 Console App <br>
 1- Procedural Programming Implementation <br>
@@ -78,51 +78,51 @@ Desktop App <br>
         </tr>
         <tr>
 <td align="center">02</td>
-<td align="center"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/algorithmic-quest-games/sudoku-game/README.md">
-<img width="50%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/sudoku-game.png"></img></a></td>
-<td align="center"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/algorithmic-quest-games/sudoku-game/README.md">Sudoku Game</a></td>
+<td align="center"><a href="https://github.com/cs-MohamedAyman/Software-Engineering-Educational-Projects/blob/master/algorithmic-quest-games/sudoku-game/README.md">
+<img width="50%" src="https://github.com/cs-MohamedAyman/Software-Engineering-Educational-Projects/blob/master/logos/sudoku-game.png"></img></a></td>
+<td align="center"><a href="https://github.com/cs-MohamedAyman/Software-Engineering-Educational-Projects/blob/master/algorithmic-quest-games/sudoku-game/README.md">Sudoku Game</a></td>
         </tr>
         <tr>
 <td align="center">03</td>
-<td align="center"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/algorithmic-quest-games/match-cards-game/README.md">
-<img width="50%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/match-cards-game.png"></img></a></td>
-<td align="center"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/algorithmic-quest-games/match-cards-game/README.md">Match Cards Game</a></td>
+<td align="center"><a href="https://github.com/cs-MohamedAyman/Software-Engineering-Educational-Projects/blob/master/algorithmic-quest-games/match-cards-game/README.md">
+<img width="50%" src="https://github.com/cs-MohamedAyman/Software-Engineering-Educational-Projects/blob/master/logos/match-cards-game.png"></img></a></td>
+<td align="center"><a href="https://github.com/cs-MohamedAyman/Software-Engineering-Educational-Projects/blob/master/algorithmic-quest-games/match-cards-game/README.md">Match Cards Game</a></td>
         </tr>
         <tr>
 <td align="center">04</td>
-<td align="center"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/algorithmic-quest-games/minesweeper-game/README.md">
-<img width="50%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/minesweeper-game.png"></img></a></td>
-<td align="center"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/algorithmic-quest-games/minesweeper-game/README.md">Minesweeper Game</a></td>
+<td align="center"><a href="https://github.com/cs-MohamedAyman/Software-Engineering-Educational-Projects/blob/master/algorithmic-quest-games/minesweeper-game/README.md">
+<img width="50%" src="https://github.com/cs-MohamedAyman/Software-Engineering-Educational-Projects/blob/master/logos/minesweeper-game.png"></img></a></td>
+<td align="center"><a href="https://github.com/cs-MohamedAyman/Software-Engineering-Educational-Projects/blob/master/algorithmic-quest-games/minesweeper-game/README.md">Minesweeper Game</a></td>
         </tr>
         <tr>
 <td align="center">05</td>
-<td align="center"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/algorithmic-quest-games/zuma-game/README.md">
-<img width="50%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/zuma-game.png"></img></a></td>
-<td align="center"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/algorithmic-quest-games/zuma-game/README.md">Zuma Game</a></td>
+<td align="center"><a href="https://github.com/cs-MohamedAyman/Software-Engineering-Educational-Projects/blob/master/algorithmic-quest-games/zuma-game/README.md">
+<img width="50%" src="https://github.com/cs-MohamedAyman/Software-Engineering-Educational-Projects/blob/master/logos/zuma-game.png"></img></a></td>
+<td align="center"><a href="https://github.com/cs-MohamedAyman/Software-Engineering-Educational-Projects/blob/master/algorithmic-quest-games/zuma-game/README.md">Zuma Game</a></td>
         </tr>
         <tr>
 <td align="center">06</td>
-<td align="center"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/algorithmic-quest-games/snake-game/README.md">
-<img width="50%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/snake-game.png"></img></a></td>
-<td align="center"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/algorithmic-quest-games/snake-game/README.md">Snake Game</a></td>
+<td align="center"><a href="https://github.com/cs-MohamedAyman/Software-Engineering-Educational-Projects/blob/master/algorithmic-quest-games/snake-game/README.md">
+<img width="50%" src="https://github.com/cs-MohamedAyman/Software-Engineering-Educational-Projects/blob/master/logos/snake-game.png"></img></a></td>
+<td align="center"><a href="https://github.com/cs-MohamedAyman/Software-Engineering-Educational-Projects/blob/master/algorithmic-quest-games/snake-game/README.md">Snake Game</a></td>
         </tr>
         <tr>
 <td align="center">07</td>
-<td align="center"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/algorithmic-quest-games/cube-block-game/README.md">
-<img width="50%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/cube-block-game.png"></img></a></td>
-<td align="center"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/algorithmic-quest-games/cube-block-game/README.md">Cube Block Game</a></td>
+<td align="center"><a href="https://github.com/cs-MohamedAyman/Software-Engineering-Educational-Projects/blob/master/algorithmic-quest-games/cube-block-game/README.md">
+<img width="50%" src="https://github.com/cs-MohamedAyman/Software-Engineering-Educational-Projects/blob/master/logos/cube-block-game.png"></img></a></td>
+<td align="center"><a href="https://github.com/cs-MohamedAyman/Software-Engineering-Educational-Projects/blob/master/algorithmic-quest-games/cube-block-game/README.md">Cube Block Game</a></td>
         </tr>
         <tr>
 <td align="center">08</td>
-<td align="center"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/algorithmic-quest-games/ball-sort-game/README.md">
-<img width="50%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/ball-sort-game.png"></img></a></td>
-<td align="center"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/algorithmic-quest-games/ball-sort-game/README.md">Ball Sort Game</a></td>
+<td align="center"><a href="https://github.com/cs-MohamedAyman/Software-Engineering-Educational-Projects/blob/master/algorithmic-quest-games/ball-sort-game/README.md">
+<img width="50%" src="https://github.com/cs-MohamedAyman/Software-Engineering-Educational-Projects/blob/master/logos/ball-sort-game.png"></img></a></td>
+<td align="center"><a href="https://github.com/cs-MohamedAyman/Software-Engineering-Educational-Projects/blob/master/algorithmic-quest-games/ball-sort-game/README.md">Ball Sort Game</a></td>
         </tr>
         <tr>
 <td align="center">09</td>
-<td align="center"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/algorithmic-quest-games/2048-game/README.md">
-<img width="50%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/2048-game.png"></img></a></td>
-<td align="center"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/algorithmic-quest-games/2048-game/README.md">2048 Game</a></td>
+<td align="center"><a href="https://github.com/cs-MohamedAyman/Software-Engineering-Educational-Projects/blob/master/algorithmic-quest-games/2048-game/README.md">
+<img width="50%" src="https://github.com/cs-MohamedAyman/Software-Engineering-Educational-Projects/blob/master/logos/2048-game.png"></img></a></td>
+<td align="center"><a href="https://github.com/cs-MohamedAyman/Software-Engineering-Educational-Projects/blob/master/algorithmic-quest-games/2048-game/README.md">2048 Game</a></td>
 <td align="left" rowspan=8>
 Console App <br>
 1- Procedural Programming Implementation <br>
@@ -170,51 +170,51 @@ Desktop App <br>
         </tr>
         <tr>
 <td align="center">10</td>
-<td align="center"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/algorithmic-quest-games/merge-wood-game/README.md">
-<img width="50%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/merge-wood-game.png"></img></a></td>
-<td align="center"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/algorithmic-quest-games/merge-wood-game/README.md">Merge Wood Game</a></td>
+<td align="center"><a href="https://github.com/cs-MohamedAyman/Software-Engineering-Educational-Projects/blob/master/algorithmic-quest-games/merge-wood-game/README.md">
+<img width="50%" src="https://github.com/cs-MohamedAyman/Software-Engineering-Educational-Projects/blob/master/logos/merge-wood-game.png"></img></a></td>
+<td align="center"><a href="https://github.com/cs-MohamedAyman/Software-Engineering-Educational-Projects/blob/master/algorithmic-quest-games/merge-wood-game/README.md">Merge Wood Game</a></td>
         </tr>
         <tr>
 <td align="center">11</td>
-<td align="center"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/algorithmic-quest-games/merge-block-game/README.md">
-<img width="50%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/merge-block-game.png"></img></a></td>
-<td align="center"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/algorithmic-quest-games/merge-block-game/README.md">Merge Block Game</a></td>
+<td align="center"><a href="https://github.com/cs-MohamedAyman/Software-Engineering-Educational-Projects/blob/master/algorithmic-quest-games/merge-block-game/README.md">
+<img width="50%" src="https://github.com/cs-MohamedAyman/Software-Engineering-Educational-Projects/blob/master/logos/merge-block-game.png"></img></a></td>
+<td align="center"><a href="https://github.com/cs-MohamedAyman/Software-Engineering-Educational-Projects/blob/master/algorithmic-quest-games/merge-block-game/README.md">Merge Block Game</a></td>
         </tr>
         <tr>
 <td align="center">12</td>
-<td align="center"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/algorithmic-quest-games/2248-game/README.md">
-<img width="50%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/2248-game.png"></img></a></td>
-<td align="center"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/algorithmic-quest-games/2248-game/README.md">2248 Game</a></td>
+<td align="center"><a href="https://github.com/cs-MohamedAyman/Software-Engineering-Educational-Projects/blob/master/algorithmic-quest-games/2248-game/README.md">
+<img width="50%" src="https://github.com/cs-MohamedAyman/Software-Engineering-Educational-Projects/blob/master/logos/2248-game.png"></img></a></td>
+<td align="center"><a href="https://github.com/cs-MohamedAyman/Software-Engineering-Educational-Projects/blob/master/algorithmic-quest-games/2248-game/README.md">2248 Game</a></td>
         </tr>
         <tr>
 <td align="center">13</td>
-<td align="center"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/algorithmic-quest-games/pacman-game/README.md">
-<img width="50%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/pacman-game.png"></img></a></td>
-<td align="center"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/algorithmic-quest-games/pacman-game/README.md">Pacman Game</a></td>
+<td align="center"><a href="https://github.com/cs-MohamedAyman/Software-Engineering-Educational-Projects/blob/master/algorithmic-quest-games/pacman-game/README.md">
+<img width="50%" src="https://github.com/cs-MohamedAyman/Software-Engineering-Educational-Projects/blob/master/logos/pacman-game.png"></img></a></td>
+<td align="center"><a href="https://github.com/cs-MohamedAyman/Software-Engineering-Educational-Projects/blob/master/algorithmic-quest-games/pacman-game/README.md">Pacman Game</a></td>
         </tr>
         <tr>
 <td align="center">14</td>
-<td align="center"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/algorithmic-quest-games/maze-game/README.md">
-<img width="50%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/maze-game.png"></img></a></td>
-<td align="center"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/algorithmic-quest-games/maze-game/README.md">Maze Game</a></td>
+<td align="center"><a href="https://github.com/cs-MohamedAyman/Software-Engineering-Educational-Projects/blob/master/algorithmic-quest-games/maze-game/README.md">
+<img width="50%" src="https://github.com/cs-MohamedAyman/Software-Engineering-Educational-Projects/blob/master/logos/maze-game.png"></img></a></td>
+<td align="center"><a href="https://github.com/cs-MohamedAyman/Software-Engineering-Educational-Projects/blob/master/algorithmic-quest-games/maze-game/README.md">Maze Game</a></td>
         </tr>
         <tr>
 <td align="center">15</td>
-<td align="center"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/algorithmic-quest-games/knights-tour-game/README.md">
-<img width="50%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/knights-tour-game.png"></img></a></td>
-<td align="center"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/algorithmic-quest-games/knights-tour-game/README.md">Knights Tour Game</a></td>
+<td align="center"><a href="https://github.com/cs-MohamedAyman/Software-Engineering-Educational-Projects/blob/master/algorithmic-quest-games/knights-tour-game/README.md">
+<img width="50%" src="https://github.com/cs-MohamedAyman/Software-Engineering-Educational-Projects/blob/master/logos/knights-tour-game.png"></img></a></td>
+<td align="center"><a href="https://github.com/cs-MohamedAyman/Software-Engineering-Educational-Projects/blob/master/algorithmic-quest-games/knights-tour-game/README.md">Knights Tour Game</a></td>
         </tr>
         <tr>
 <td align="center">16</td>
-<td align="center"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/algorithmic-quest-games/eight-queens-game/README.md">
-<img width="50%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/eight-queens-game.png"></img></a></td>
-<td align="center"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/algorithmic-quest-games/eight-queens-game/README.md">Eight Queens Game</a></td>
+<td align="center"><a href="https://github.com/cs-MohamedAyman/Software-Engineering-Educational-Projects/blob/master/algorithmic-quest-games/eight-queens-game/README.md">
+<img width="50%" src="https://github.com/cs-MohamedAyman/Software-Engineering-Educational-Projects/blob/master/logos/eight-queens-game.png"></img></a></td>
+<td align="center"><a href="https://github.com/cs-MohamedAyman/Software-Engineering-Educational-Projects/blob/master/algorithmic-quest-games/eight-queens-game/README.md">Eight Queens Game</a></td>
         </tr>
         <tr>
 <td align="center">17</td>
-<td align="center"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/algorithmic-quest-games/multi-sudoku-game/README.md">
-<img width="50%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/multi-sudoku-game.png"></img></a></td>
-<td align="center"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/algorithmic-quest-games/multi-sudoku-game/README.md">Multi Sudoku Game</a></td>
+<td align="center"><a href="https://github.com/cs-MohamedAyman/Software-Engineering-Educational-Projects/blob/master/algorithmic-quest-games/multi-sudoku-game/README.md">
+<img width="50%" src="https://github.com/cs-MohamedAyman/Software-Engineering-Educational-Projects/blob/master/logos/multi-sudoku-game.png"></img></a></td>
+<td align="center"><a href="https://github.com/cs-MohamedAyman/Software-Engineering-Educational-Projects/blob/master/algorithmic-quest-games/multi-sudoku-game/README.md">Multi Sudoku Game</a></td>
 <td align="left" rowspan=8>
 Console App <br>
 1- Procedural Programming Implementation <br>
@@ -262,45 +262,45 @@ Desktop App <br>
         </tr>
         <tr>
 <td align="center">18</td>
-<td align="center"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/algorithmic-quest-games/slitherlink-game/README.md">
-<img width="50%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/slitherlink-game.png"></img></a></td>
-<td align="center"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/algorithmic-quest-games/slitherlink-game/README.md">Slitherlink Game</a></td>
+<td align="center"><a href="https://github.com/cs-MohamedAyman/Software-Engineering-Educational-Projects/blob/master/algorithmic-quest-games/slitherlink-game/README.md">
+<img width="50%" src="https://github.com/cs-MohamedAyman/Software-Engineering-Educational-Projects/blob/master/logos/slitherlink-game.png"></img></a></td>
+<td align="center"><a href="https://github.com/cs-MohamedAyman/Software-Engineering-Educational-Projects/blob/master/algorithmic-quest-games/slitherlink-game/README.md">Slitherlink Game</a></td>
         </tr>
         <tr>
 <td align="center">19</td>
-<td align="center"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/algorithmic-quest-games/make-ten-drop-game/README.md">
-<img width="50%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/make-ten-drop-game.png"></img></a></td>
-<td align="center"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/algorithmic-quest-games/make-ten-drop-game/README.md">Make Ten Drop Game</a></td>
+<td align="center"><a href="https://github.com/cs-MohamedAyman/Software-Engineering-Educational-Projects/blob/master/algorithmic-quest-games/make-ten-drop-game/README.md">
+<img width="50%" src="https://github.com/cs-MohamedAyman/Software-Engineering-Educational-Projects/blob/master/logos/make-ten-drop-game.png"></img></a></td>
+<td align="center"><a href="https://github.com/cs-MohamedAyman/Software-Engineering-Educational-Projects/blob/master/algorithmic-quest-games/make-ten-drop-game/README.md">Make Ten Drop Game</a></td>
         </tr>
         <tr>
 <td align="center">20</td>
-<td align="center"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/algorithmic-quest-games/spots-connect-game/README.md">
-<img width="50%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/spots-connect-game.png"></img></a></td>
-<td align="center"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/algorithmic-quest-games/spots-connect-game/README.md">Spots Connect Game</a></td>
+<td align="center"><a href="https://github.com/cs-MohamedAyman/Software-Engineering-Educational-Projects/blob/master/algorithmic-quest-games/spots-connect-game/README.md">
+<img width="50%" src="https://github.com/cs-MohamedAyman/Software-Engineering-Educational-Projects/blob/master/logos/spots-connect-game.png"></img></a></td>
+<td align="center"><a href="https://github.com/cs-MohamedAyman/Software-Engineering-Educational-Projects/blob/master/algorithmic-quest-games/spots-connect-game/README.md">Spots Connect Game</a></td>
         </tr>
         <tr>
 <td align="center">21</td>
-<td align="center"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/algorithmic-quest-games/blokus-game/README.md">
-<img width="50%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/blokus-game.png"></img></a></td>
-<td align="center"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/algorithmic-quest-games/blokus-game/README.md">Blokus Game</a></td>
+<td align="center"><a href="https://github.com/cs-MohamedAyman/Software-Engineering-Educational-Projects/blob/master/algorithmic-quest-games/blokus-game/README.md">
+<img width="50%" src="https://github.com/cs-MohamedAyman/Software-Engineering-Educational-Projects/blob/master/logos/blokus-game.png"></img></a></td>
+<td align="center"><a href="https://github.com/cs-MohamedAyman/Software-Engineering-Educational-Projects/blob/master/algorithmic-quest-games/blokus-game/README.md">Blokus Game</a></td>
         </tr>
         <tr>
 <td align="center">22</td>
-<td align="center"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/algorithmic-quest-games/blockudoku-game/README.md">
-<img width="50%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/blockudoku-game.png"></img></a></td>
-<td align="center"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/algorithmic-quest-games/blockudoku-game/README.md">Blockudoku Game</a></td>
+<td align="center"><a href="https://github.com/cs-MohamedAyman/Software-Engineering-Educational-Projects/blob/master/algorithmic-quest-games/blockudoku-game/README.md">
+<img width="50%" src="https://github.com/cs-MohamedAyman/Software-Engineering-Educational-Projects/blob/master/logos/blockudoku-game.png"></img></a></td>
+<td align="center"><a href="https://github.com/cs-MohamedAyman/Software-Engineering-Educational-Projects/blob/master/algorithmic-quest-games/blockudoku-game/README.md">Blockudoku Game</a></td>
         </tr>
         <tr>
 <td align="center">23</td>
-<td align="center"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/algorithmic-quest-games/fruit-master-game/README.md">
-<img width="50%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/fruit-master-game.png"></img></a></td>
-<td align="center"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/algorithmic-quest-games/fruit-master-game/README.md">Fruit Master Game</a></td>
+<td align="center"><a href="https://github.com/cs-MohamedAyman/Software-Engineering-Educational-Projects/blob/master/algorithmic-quest-games/fruit-master-game/README.md">
+<img width="50%" src="https://github.com/cs-MohamedAyman/Software-Engineering-Educational-Projects/blob/master/logos/fruit-master-game.png"></img></a></td>
+<td align="center"><a href="https://github.com/cs-MohamedAyman/Software-Engineering-Educational-Projects/blob/master/algorithmic-quest-games/fruit-master-game/README.md">Fruit Master Game</a></td>
         </tr>
         <tr>
 <td align="center">24</td>
-<td align="center"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/algorithmic-quest-games/bubble-poke-game/README.md">
-<img width="50%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/bubble-poke-game.png"></img></a></td>
-<td align="center"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/algorithmic-quest-games/bubble-poke-game/README.md">Bubble Poke Game</a></td>
+<td align="center"><a href="https://github.com/cs-MohamedAyman/Software-Engineering-Educational-Projects/blob/master/algorithmic-quest-games/bubble-poke-game/README.md">
+<img width="50%" src="https://github.com/cs-MohamedAyman/Software-Engineering-Educational-Projects/blob/master/logos/bubble-poke-game.png"></img></a></td>
+<td align="center"><a href="https://github.com/cs-MohamedAyman/Software-Engineering-Educational-Projects/blob/master/algorithmic-quest-games/bubble-poke-game/README.md">Bubble Poke Game</a></td>
         </tr>
     </tbody>
 </table>

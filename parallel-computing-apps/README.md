@@ -28,9 +28,9 @@
     <tbody>
         <tr>
 <td align="center">01</td>
-<td align="center"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/parallel-computing-apps/parallel-stls/README.md">
-<img width="50%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/parallel-stls.png"></img></a></td>
-<td align="center"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/parallel-computing-apps/parallel-stls/README.md">Parallel STLs</a></td>
+<td align="center"><a href="https://github.com/cs-MohamedAyman/Software-Engineering-Educational-Projects/blob/master/parallel-computing-apps/parallel-stls/README.md">
+<img width="50%" src="https://github.com/cs-MohamedAyman/Software-Engineering-Educational-Projects/blob/master/logos/parallel-stls.png"></img></a></td>
+<td align="center"><a href="https://github.com/cs-MohamedAyman/Software-Engineering-Educational-Projects/blob/master/parallel-computing-apps/parallel-stls/README.md">Parallel STLs</a></td>
 <td align="left" rowspan=4>
 Console App <br>
 1- Procedural Programming Implementation <br>
@@ -78,27 +78,27 @@ Desktop App <br>
         </tr>
         <tr>
 <td align="center">02</td>
-<td align="center"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/parallel-computing-apps/parallel-1-player-games/README.md">
-<img width="50%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/parallel-1-player-games.png"></img></a></td>
-<td align="center"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/parallel-computing-apps/parallel-1-player-games/README.md">Parallel 1 Player Games</a></td>
+<td align="center"><a href="https://github.com/cs-MohamedAyman/Software-Engineering-Educational-Projects/blob/master/parallel-computing-apps/parallel-1-player-games/README.md">
+<img width="50%" src="https://github.com/cs-MohamedAyman/Software-Engineering-Educational-Projects/blob/master/logos/parallel-1-player-games.png"></img></a></td>
+<td align="center"><a href="https://github.com/cs-MohamedAyman/Software-Engineering-Educational-Projects/blob/master/parallel-computing-apps/parallel-1-player-games/README.md">Parallel 1 Player Games</a></td>
         </tr>
         <tr>
 <td align="center">03</td>
-<td align="center"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/parallel-computing-apps/parallel-2-player-games/README.md">
-<img width="50%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/parallel-2-player-games.png"></img></a></td>
-<td align="center"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/parallel-computing-apps/parallel-2-player-games/README.md">Parallel 2 Player Games</Processing</a></td>
+<td align="center"><a href="https://github.com/cs-MohamedAyman/Software-Engineering-Educational-Projects/blob/master/parallel-computing-apps/parallel-2-player-games/README.md">
+<img width="50%" src="https://github.com/cs-MohamedAyman/Software-Engineering-Educational-Projects/blob/master/logos/parallel-2-player-games.png"></img></a></td>
+<td align="center"><a href="https://github.com/cs-MohamedAyman/Software-Engineering-Educational-Projects/blob/master/parallel-computing-apps/parallel-2-player-games/README.md">Parallel 2 Player Games</Processing</a></td>
         </tr>
         <tr>
 <td align="center">04</td>
-<td align="center"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/parallel-computing-apps/parallel-4-player-games/README.md">
-<img width="50%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/parallel-4-player-games.png"></img></a></td>
-<td align="center"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/parallel-computing-apps/parallel-4-player-games/README.md">Parallel 4 Player Games</a></td>
+<td align="center"><a href="https://github.com/cs-MohamedAyman/Software-Engineering-Educational-Projects/blob/master/parallel-computing-apps/parallel-4-player-games/README.md">
+<img width="50%" src="https://github.com/cs-MohamedAyman/Software-Engineering-Educational-Projects/blob/master/logos/parallel-4-player-games.png"></img></a></td>
+<td align="center"><a href="https://github.com/cs-MohamedAyman/Software-Engineering-Educational-Projects/blob/master/parallel-computing-apps/parallel-4-player-games/README.md">Parallel 4 Player Games</a></td>
         </tr>
         <tr>
 <td align="center">05</td>
-<td align="center"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/parallel-computing-apps/parallel-searching-algorithms/README.md">
-<img width="50%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/parallel-searching-algorithms.png"></img></a></td>
-<td align="center"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/parallel-computing-apps/parallel-searching-algorithms/README.md">Parallel Searching Algorithms</a></td>
+<td align="center"><a href="https://github.com/cs-MohamedAyman/Software-Engineering-Educational-Projects/blob/master/parallel-computing-apps/parallel-searching-algorithms/README.md">
+<img width="50%" src="https://github.com/cs-MohamedAyman/Software-Engineering-Educational-Projects/blob/master/logos/parallel-searching-algorithms.png"></img></a></td>
+<td align="center"><a href="https://github.com/cs-MohamedAyman/Software-Engineering-Educational-Projects/blob/master/parallel-computing-apps/parallel-searching-algorithms/README.md">Parallel Searching Algorithms</a></td>
 <td align="left" rowspan=4>
 Console App <br>
 1- Procedural Programming Implementation <br>
@@ -146,27 +146,27 @@ Desktop App <br>
         </tr>
         <tr>
 <td align="center">06</td>
-<td align="center"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/parallel-computing-apps/parallel-sorting-algorithms/README.md">
-<img width="50%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/parallel-sorting-algorithms.png"></img></a></td>
-<td align="center"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/parallel-computing-apps/parallel-sorting-algorithms/README.md">Parallel Sorting Algorithms</a></td>
+<td align="center"><a href="https://github.com/cs-MohamedAyman/Software-Engineering-Educational-Projects/blob/master/parallel-computing-apps/parallel-sorting-algorithms/README.md">
+<img width="50%" src="https://github.com/cs-MohamedAyman/Software-Engineering-Educational-Projects/blob/master/logos/parallel-sorting-algorithms.png"></img></a></td>
+<td align="center"><a href="https://github.com/cs-MohamedAyman/Software-Engineering-Educational-Projects/blob/master/parallel-computing-apps/parallel-sorting-algorithms/README.md">Parallel Sorting Algorithms</a></td>
         </tr>
         <tr>
 <td align="center">07</td>
-<td align="center"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/parallel-computing-apps/parallel-matrix-calculator/README.md">
-<img width="50%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/parallel-matrix-calculator.png"></img></a></td>
-<td align="center"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/parallel-computing-apps/parallel-matrix-calculator/README.md">Parallel Matrix Calculator</a></td>
+<td align="center"><a href="https://github.com/cs-MohamedAyman/Software-Engineering-Educational-Projects/blob/master/parallel-computing-apps/parallel-matrix-calculator/README.md">
+<img width="50%" src="https://github.com/cs-MohamedAyman/Software-Engineering-Educational-Projects/blob/master/logos/parallel-matrix-calculator.png"></img></a></td>
+<td align="center"><a href="https://github.com/cs-MohamedAyman/Software-Engineering-Educational-Projects/blob/master/parallel-computing-apps/parallel-matrix-calculator/README.md">Parallel Matrix Calculator</a></td>
         </tr>
         <tr>
 <td align="center">08</td>
-<td align="center"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/parallel-computing-apps/parallel-graph-algorithms/README.md">
-<img width="50%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/parallel-graph-algorithms.png"></img></a></td>
-<td align="center"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/parallel-computing-apps/parallel-graph-algorithms/README.md">Parallel Graph Algorithms</a></td>
+<td align="center"><a href="https://github.com/cs-MohamedAyman/Software-Engineering-Educational-Projects/blob/master/parallel-computing-apps/parallel-graph-algorithms/README.md">
+<img width="50%" src="https://github.com/cs-MohamedAyman/Software-Engineering-Educational-Projects/blob/master/logos/parallel-graph-algorithms.png"></img></a></td>
+<td align="center"><a href="https://github.com/cs-MohamedAyman/Software-Engineering-Educational-Projects/blob/master/parallel-computing-apps/parallel-graph-algorithms/README.md">Parallel Graph Algorithms</a></td>
         </tr>
         <tr>
 <td align="center">09</td>
-<td align="center"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/parallel-computing-apps/parallel-genetic-algorithms/README.md">
-<img width="50%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/parallel-genetic-algorithms.png"></img></a></td>
-<td align="center"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/parallel-computing-apps/parallel-genetic-algorithms/README.md">Parallel Genetic Algorithms</a></td>
+<td align="center"><a href="https://github.com/cs-MohamedAyman/Software-Engineering-Educational-Projects/blob/master/parallel-computing-apps/parallel-genetic-algorithms/README.md">
+<img width="50%" src="https://github.com/cs-MohamedAyman/Software-Engineering-Educational-Projects/blob/master/logos/parallel-genetic-algorithms.png"></img></a></td>
+<td align="center"><a href="https://github.com/cs-MohamedAyman/Software-Engineering-Educational-Projects/blob/master/parallel-computing-apps/parallel-genetic-algorithms/README.md">Parallel Genetic Algorithms</a></td>
 <td align="left" rowspan=4>
 Console App <br>
 1- Procedural Programming Implementation <br>
@@ -214,21 +214,21 @@ Desktop App <br>
         </tr>
         <tr>
 <td align="center">10</td>
-<td align="center"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/parallel-computing-apps/parallel-directory-processing/README.md">
-<img width="50%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/parallel-directory-processing.png"></img></a></td>
-<td align="center"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/parallel-computing-apps/parallel-directory-processing/README.md">Parallel Directory Processing</a></td>
+<td align="center"><a href="https://github.com/cs-MohamedAyman/Software-Engineering-Educational-Projects/blob/master/parallel-computing-apps/parallel-directory-processing/README.md">
+<img width="50%" src="https://github.com/cs-MohamedAyman/Software-Engineering-Educational-Projects/blob/master/logos/parallel-directory-processing.png"></img></a></td>
+<td align="center"><a href="https://github.com/cs-MohamedAyman/Software-Engineering-Educational-Projects/blob/master/parallel-computing-apps/parallel-directory-processing/README.md">Parallel Directory Processing</a></td>
         </tr>
         <tr>
 <td align="center">11</td>
-<td align="center"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/parallel-computing-apps/parallel-painting-tool/README.md">
-<img width="50%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/parallel-painting-tool.png"></img></a></td>
-<td align="center"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/parallel-computing-apps/parallel-painting-tool/README.md">Parallel Painting Tool</a></td>
+<td align="center"><a href="https://github.com/cs-MohamedAyman/Software-Engineering-Educational-Projects/blob/master/parallel-computing-apps/parallel-painting-tool/README.md">
+<img width="50%" src="https://github.com/cs-MohamedAyman/Software-Engineering-Educational-Projects/blob/master/logos/parallel-painting-tool.png"></img></a></td>
+<td align="center"><a href="https://github.com/cs-MohamedAyman/Software-Engineering-Educational-Projects/blob/master/parallel-computing-apps/parallel-painting-tool/README.md">Parallel Painting Tool</a></td>
         </tr>
         <tr>
 <td align="center">12</td>
-<td align="center"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/parallel-computing-apps/parallel-docs-processing/README.md">
-<img width="50%" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/parallel-docs-processing.png"></img></a></td>
-<td align="center"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/parallel-computing-apps/parallel-docs-processing/README.md">Parallel Docs Processing</a></td>
+<td align="center"><a href="https://github.com/cs-MohamedAyman/Software-Engineering-Educational-Projects/blob/master/parallel-computing-apps/parallel-docs-processing/README.md">
+<img width="50%" src="https://github.com/cs-MohamedAyman/Software-Engineering-Educational-Projects/blob/master/logos/parallel-docs-processing.png"></img></a></td>
+<td align="center"><a href="https://github.com/cs-MohamedAyman/Software-Engineering-Educational-Projects/blob/master/parallel-computing-apps/parallel-docs-processing/README.md">Parallel Docs Processing</a></td>
         </tr>
     </tbody>
 </table>
